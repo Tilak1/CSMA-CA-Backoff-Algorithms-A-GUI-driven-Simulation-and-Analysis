@@ -1,3 +1,6 @@
+Authors: George Mensah, Tilak Marupilla, Soniya Kadam and Robert Quainoo
+
+
 **Overview** : 
 The role of the backoff mechanism in Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) protocols is critical in managing network contention and optimizing channel access. 
 This project explores the intricacies of the backoff mechanism and its impact on contention window size within CSMA/CA networks.
